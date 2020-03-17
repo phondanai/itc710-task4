@@ -1,0 +1,37 @@
+BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_slot_management.o: \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_slot_management.c \
+ BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed_config.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/inc/mbedtls/config.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/platform/inc/platform_mbed.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/inc/mbedtls/check_config.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_service_integration.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_platform.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_types.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_values.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_sizes.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/COMPONENT_NSPE/crypto_struct.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/cipher.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/platform_util.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/cmac.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/gcm.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/md.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/md2.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/md4.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/md5.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/ripemd160.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/sha1.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/sha256.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/sha512.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_extra.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_core.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_se_driver.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/psa/crypto_driver_common.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/ecp.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/bignum.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/rsa.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_slot_management.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_se.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/platform/COMPONENT_PSA_SRV_IMPL/psa_crypto_storage.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/platform.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/mbedtls/mbed-crypto/inc/mbedtls/platform_time.h

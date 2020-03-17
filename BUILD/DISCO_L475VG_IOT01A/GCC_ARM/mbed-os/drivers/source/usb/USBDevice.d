@@ -1,0 +1,19 @@
+BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed-os/drivers/source/usb/USBDevice.o: \
+ /home/phondanai/mbed-os-program/mbed-os/drivers/source/usb/USBDevice.cpp \
+ BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed_config.h \
+ /home/phondanai/mbed-os-program/mbed-os/drivers/internal/USBDevice.h \
+ /home/phondanai/mbed-os-program/mbed-os/drivers/internal/USBDevice_Types.h \
+ /home/phondanai/mbed-os-program/mbed-os/hal/usb/USBPhy.h \
+ /home/phondanai/mbed-os-program/mbed-os/hal/usb/USBPhyTypes.h \
+ /home/phondanai/mbed-os-program/mbed-os/hal/usb/USBPhyEvents.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_critical.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/Callback.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_assert.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_toolchain.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_preprocessor.h \
+ /home/phondanai/mbed-os-program/mbed-os/drivers/internal/USBDescriptor.h \
+ /home/phondanai/mbed-os-program/mbed-os/hal/usb/usb_phy_api.h \
+ /home/phondanai/mbed-os-program/mbed-os/hal/usb/USBPhy.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_assert.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_error.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_retarget.h

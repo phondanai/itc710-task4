@@ -1,0 +1,23 @@
+BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed-os/features/nfc/source/nfc/NFCNDEFCapable.o: \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/source/nfc/NFCNDEFCapable.cpp \
+ BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed_config.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/nfc/NFCNDEFCapable.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/Span.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_assert.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_toolchain.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_preprocessor.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/nfc/NFCDefinitions.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/ndef/ndef.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/nfc_common.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/platform/nfc_debug.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_macros.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_stream.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/ndef/ndef.h

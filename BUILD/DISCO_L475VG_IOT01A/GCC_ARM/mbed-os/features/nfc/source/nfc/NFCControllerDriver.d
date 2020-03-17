@@ -1,0 +1,33 @@
+BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed-os/features/nfc/source/nfc/NFCControllerDriver.o: \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/source/nfc/NFCControllerDriver.cpp \
+ BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed_config.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/nfc/NFCControllerDriver.h \
+ /home/phondanai/mbed-os-program/mbed-os/events/EventQueue.h \
+ /home/phondanai/mbed-os-program/mbed-os/events/equeue.h \
+ /home/phondanai/mbed-os-program/mbed-os/events/internal/equeue_platform.h \
+ /home/phondanai/mbed-os-program/mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
+ /home/phondanai/mbed-os-program/mbed-os/rtos/mbed_rtos_storage.h \
+ /home/phondanai/mbed-os-program/mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
+ /home/phondanai/mbed-os-program/mbed-os/rtos/source/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
+ /home/phondanai/mbed-os-program/mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
+ /home/phondanai/mbed-os-program/mbed-os/targets/TARGET_STM/mbed_rtx.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/Callback.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_assert.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_toolchain.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_preprocessor.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/NonCopyable.h \
+ /home/phondanai/mbed-os-program/mbed-os/platform/mbed_debug.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/transceiver/transceiver.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/nfc_common.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/platform/nfc_debug.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_macros.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/acore/acore/ac_stream.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/transceiver/protocols.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/platform/nfc_transport.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/platform/nfc_scheduler.h \
+ /home/phondanai/mbed-os-program/mbed-os/features/nfc/stack/platform/nfc_scheduler.h
